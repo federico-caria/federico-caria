@@ -3,7 +3,7 @@
 <p align="left"> 
 I'm <strong>Federico</strong>, a UX Researcher at <a href='www.baymard.com'>Baymard Institute</a>.
  
-I am the creator of.
+I am..
 
 ...and I'm currently Senior UX Researcher for Baymard Institute.
 </p>
@@ -17,11 +17,11 @@ I am the creator of.
 </p>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript, Bootstrap, Python.
+  🦄 <strong>IT:</strong> HTML5, CSS3, JavaScript, Bootstrap, Python.
 </p>
 
 <p align="left">
-  💼 <strong>Tools:</strong> Figma, Sketch, Atlas.ti.
+  💼 <strong>Design:</strong> Figma, Sketch, Atlas.ti.
 </p>
 
 Emails:
